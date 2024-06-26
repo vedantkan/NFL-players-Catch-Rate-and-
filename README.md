@@ -9,6 +9,8 @@ As we see below, the left facet shows that small sample sizes cause the posterio
 
 <img width="1184" alt="Screenshot 2024-06-26 at 3 35 21 PM" src="https://github.com/vedantkan/NFL-players-Catch-Rate-and-associated-uncertrainity/assets/68374993/5669645b-be2c-4d59-a028-3b204b8b55bc">
 
+The posterior middle 90% uncertainty interval range is decreasing as the sample size increases.
+
 <img width="1181" alt="Screenshot 2024-06-26 at 3 36 28 PM" src="https://github.com/vedantkan/NFL-players-Catch-Rate-and-associated-uncertrainity/assets/68374993/a85e2214-ceae-440d-82bc-85a34ed4f6fc">
 
 If we had to select specific players, it would be those identified by red in the figure below. We should look for players with high levels of uncertainty and secondly, we want to identify players with high mean values. In this way, there is a risk the player could do worse than what we expect them to do (a downside), but there is also a chance the player can outperform our expectations.
